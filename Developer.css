@@ -1,9 +1,9 @@
 #registercard{
   margin-top: 10px;
 }
-.navbar{
-  margin-left: 43%;
-  /* text-align: center !important; */
+.navbar-brand{
+  margin: auto;
+
 }
 .btn-primary{
   float: right;

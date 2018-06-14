@@ -1,0 +1,32 @@
+#registercard{
+  margin-top: 10px;
+}
+.navbar{
+  margin-left: 43%;
+  /* text-align: center !important; */
+}
+.btn-primary{
+  float: right;
+  width: 40%;
+}
+
+.image{
+  width: inherit;
+  margin-top: 10px;
+}
+.row{
+  background-image:linear-gradient(to top right,#d4fbff85,#ce787887),url(Images/city.jpg);
+  background-size: cover;
+}
+h3{
+  font-style: oblique;
+  font-size: 45px;
+  text-align: center;
+  color: #FF9700;
+}
+.col-sm-8 p{
+  font-family: sans-serif;
+  font-weight:bold;
+  margin-top: 20px;
+
+}
